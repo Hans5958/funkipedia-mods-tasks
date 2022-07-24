@@ -12,9 +12,11 @@
 
 - Templates
   - [Template:GameBanana](https://fridaynightfunking.fandom.com/wiki/Template:GameBanana)
-  - [Template:Game_Jolt](https://fridaynightfunking.fandom.com/wiki/Template:Game_Jolt)
-  - [Template:Google_Drive](https://fridaynightfunking.fandom.com/wiki/Template:Google_Drive)
+  - [Template:Game Jolt](https://fridaynightfunking.fandom.com/wiki/Template:Game_Jolt)
+  - [Template:Google Drive](https://fridaynightfunking.fandom.com/wiki/Template:Google_Drive)
   - [Template:GitHub](https://fridaynightfunking.fandom.com/wiki/Template:GitHub)
+  - [Template:MediaFire](https://fridaynightfunking.fandom.com/wiki/Template:MediaFire)
+  - [Template:Discord invite](https://fridaynightfunking.fandom.com/wiki/Template:Discord_invite)
 - [AutoWikiBrowser config](https://gitlab.com/Hans5958-MWS/fandom-fridaynightfunking/-/blob/master/download-links/awb.xml)
 
 ## Plan
