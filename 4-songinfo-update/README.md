@@ -2,6 +2,8 @@
 
 **Description**: Merge {{SongInfo}} with {{SongInfoGradient}} and {{SongInfoLoud}}
 
+**Status**: ![status-wait] Waiting
+
 **Pages checked**: 1981
 
 **Auto/manual**: Manual (template making), automated (updating pages)
@@ -23,6 +25,16 @@
 - [ ] Get approval to run script 
 - [ ] Run script on Bot5958 supervised
 
+## Idea
+
+These are the list of ideas. This may, or may not be implemented, and it is up for debate.
+
+- [x] Add more fields for variations on select parameters
+- [ ] `speed`, `maxscore`: Use multiple parameters for instead of doing new lines (worth it?)
+- [ ] `speed`, `maxscore`: All difficulties or hardest?
+- [ ] Support for `maxnotes`
+- [ ] Have it as a new name (e.g. {{Song info}})
+
 ## Pages to check
 
 This page lists how many pages to check. The amount of edited pages are most likely will be less than this. The amount of pages may change as time goes.
@@ -38,3 +50,11 @@ Pages on this priority transcludes {{SongInfoLoud}}, which requires additional w
 Pages on this priority transcludes the other variations, which only requires template, but it is done to move to the newer parameter names.
 
 [Link to list (1942 pages)](pages-prio-2.txt)
+
+<!-- status start -->
+[status-done]: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Symbol_confirmed.svg/16px-Symbol_confirmed.svg.png
+[status-wait]: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Symbol_wait.svg/16px-Symbol_wait.svg.png
+[status-stub]: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Symbol_stub_class.svg/16px-Symbol_stub_class.svg.png
+[status-ongo]: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Symbol_support_vote.svg/16px-Symbol_support_vote.svg.png
+[status-done]: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Symbol_confirmed.svg/16px-Symbol_confirmed.svg.png
+<!-- status end -->
