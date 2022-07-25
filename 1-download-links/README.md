@@ -24,8 +24,14 @@
 - [x] Create templates
 - [x] Get list of pages to check
 - [x] Create script for automated editing
-- [ ] Get approval to run script 
+- [ ] Get approval to run script ![status-wait]
 - [ ] Run script on Bot5958 supervised
+
+## Idea
+
+These are the list of ideas. This may, or may not be implemented, and it is up for debate.
+
+- [ ] Move download links up to the infobox
  
 ## Pages to check
 

@@ -20,9 +20,10 @@
 - [x] Merge {{SongInfoGradient}} to {{SongInfo}}
 - [x] Merge {{SongInfoLoud}} to {{SongInfo}}
 - [x] Create TemplateData and other documentation
+- [ ] Move template to the mainspace templates. ![status-wait]
 - [x] Get list of pages to check
 - [x] Create script for automated editing
-- [ ] Get approval to run script 
+- [ ] Get approval to run script ![status-wait]
 - [ ] Run script on Bot5958 supervised
 
 ## Idea

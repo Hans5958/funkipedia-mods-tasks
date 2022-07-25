@@ -16,7 +16,7 @@
 
 - [x] Get list of pages to check
 - [x] Create script for automated editing
-- [ ] Get approval to run script 
+- [ ] Get approval to run script ![status-wait]
 - [ ] Run script on Bot5958 supervised
  
 ## Pages to check

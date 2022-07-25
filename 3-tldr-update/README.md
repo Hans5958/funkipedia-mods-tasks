@@ -1,6 +1,6 @@
 # tldr-update
 
-**Description**: Update {{TLDR}} template values based on existing notices
+**Description**: Update {{TLDR}} values based on existing notices
 
 **Status**: ![status-wait] Waiting
 
@@ -17,7 +17,7 @@
 - [x] Get list of available notices
 - [x] Get list of pages to check
 - [x] Create script for automated editing
-- [ ] Get approval to run script 
+- [ ] Get approval to run script ![status-wait]
 - [ ] Run script on Bot5958 supervised
 
 ## Idea

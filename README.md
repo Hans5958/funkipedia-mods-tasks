@@ -8,7 +8,7 @@ Personal list of tasks that I want (or wish) to do on fridaynightfunking.fandom.
 | ------------------------------------------------ | ----------------------------------------------------------------- | ---------------------- | ------------------ | ------------------ |
 | [download-links](1-download-links/README.md)     | Use templates for download links instead of wikitext              | ![status-wait] Waiting | :white_check_mark: | :white_check_mark: |
 | [doc-separation](2-doc-separation/README.md)     | Separate template documentation to it's own page on `/doc`        | ![status-wait] Waiting | :white_check_mark: |                    |
-| [tldr-update](3-tldr-update/README.md)           | Update {{TLDR}} template values based on existing notices         | ![status-wait] Waiting | :white_check_mark: |                    |
+| [tldr-update](3-tldr-update/README.md)           | Update {{TLDR}} values based on existing notices         | ![status-wait] Waiting | :white_check_mark: |                    |
 | [songinfo-update](4-songinfo-update/README.md)   | Merge {{SongInfo}} with {{SongInfoGradient}} and {{SongInfoLoud}} | ![status-wait] Waiting | :white_check_mark: | :white_check_mark: |
 | [page-caps](5-page-caps/README.md)               | Use consistent capitalization on pages names                      | ![status-stub] Stub    |                    | :white_check_mark: |
 | [category-cleanup](6-category-cleanup/README.md) | Remove insignificant categories                                   | ![status-stub] Stub    | :white_check_mark: | :white_check_mark: |
