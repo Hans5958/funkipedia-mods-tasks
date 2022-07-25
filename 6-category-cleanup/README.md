@@ -8,6 +8,10 @@
 
 **Auto/manual**: Manual (checking categories), automated (removing categories from pages)
 
+## Background
+
+Day-to-day we see categories that are not insignificant, so this task has a job to remove these categories.
+
 ## Plan
 
 - [ ] Start cleaning categories

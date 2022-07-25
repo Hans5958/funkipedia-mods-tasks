@@ -10,7 +10,7 @@
 
 ## Background
 
-The wiki has {{TLDR}} that when used in companion with {{NoticeScrollboard}}, gives shorter warnings of a page. It is often that this values are not updated to reflect the present notices, so this task has a goal to have a script to update the values of {{TLDR}}
+The wiki has {{TLDR}} that when used in companion with {{NoticeScrollboard}}, gives shorter warnings of a page. It is often that this values are not updated to reflect the present notices, so this task has a goal to have a script to update the values of {{TLDR}}.
 
 ## Links
 

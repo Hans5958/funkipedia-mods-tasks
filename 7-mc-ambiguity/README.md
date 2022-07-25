@@ -6,7 +6,7 @@
 
 **Pages checked**: unknown
 
-**Auto/manual**: Manual (checking categories), automated (removing categories from pages)
+**Auto/manual**: Manual
 
 ## Background
 
