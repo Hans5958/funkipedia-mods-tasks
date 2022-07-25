@@ -16,14 +16,14 @@ Read also: [A Study of Funkipedia Mods – What Can Be Improved](https://gist.gi
 | [category-cleanup](6-category-cleanup/README.md) | Remove insignificant categories                                   | ![status-stub] Stub    | :white_check_mark: | :white_check_mark: |
 | [mc-ambiguity](7-mc-ambiguity/README.md)         | Resolve the "[mod/character ambiguity](link-mc-ambiguity)"        | ![status-stub] Stub    |                    | :white_check_mark: |
 | [cut-the-grass](8-cut-the-grass/README.md)       | Make long pages shorter with separation to other pages            | ![status-stub] Stub    |                    | :white_check_mark: |
-| [tabber-killer](8-tabber-killer/README.md)       | Decrease use of the tabber feature                                | ![status-stub] Stub    |                    | :white_check_mark: |
+| [tabber-killer](9-tabber-killer/README.md)       | Decrease use of the tabber feature                                | ![status-stub] Stub    |                    | :white_check_mark: |
 
 ## Status key
 
 - ![status-stub] Stub: Task needs development but it is stagnant
 - ![status-wait] Waiting: Task waiting for something (usually authorization)
 - ![status-ongo] Ongoing: Task is ongoing
-- ![status-done] Done: Task is ongoing
+- ![status-done] Done: Task is done (if resumed, use "Ongoing")
 
 ## Overview of automated tasks
 
