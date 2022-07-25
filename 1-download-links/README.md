@@ -8,6 +8,10 @@
 
 **Auto/manual**: Manual (template making), automated (updating pages)
 
+## Background
+
+In order to achieve consistency, this task has a goal to create consistent templates for download links, and updating the pages to use it.
+
 ## Links
 
 - Templates

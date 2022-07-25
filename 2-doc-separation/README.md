@@ -8,6 +8,14 @@
 
 **Auto/manual**: Automated
 
+## Background
+
+Information related to the template can be put inside <noinclude\></noinclude\>, which can be called as the documentation of the template.
+
+While this is fine for basic usage, this usually may inflate the page size larger, which may be not ideal for Fandom servers (this is one hypothesis of why it is slow). Moreover, when a page is locked, the documentation can't be updated, even though it should be fine to update it.
+
+Luckily, there is a solution for this: putting the documentation in it's own page on `[TEMPLATE_NAME]/doc`, and then link it using the available templat `{{Documentation}}`. So this task has a goal to do that.
+
 ## Links
 
 - [Pywikibot script](https://gitlab.com/Hans5958-MWS/fandom-fridaynightfunking/-/blob/master/pwb/scripts/userscripts/doc_separator.py)

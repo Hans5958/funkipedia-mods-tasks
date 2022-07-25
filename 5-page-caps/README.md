@@ -8,6 +8,14 @@
 
 **Auto/manual**: Manual
 
+## Background
+
+"[Sentence case](https://fridaynightfunking.fandom.com/wiki/List_of_Friday_Night_Funkin%27_mods_current_held_achievements) or [title case](https://fridaynightfunking.fandom.com/wiki/List_of_Unique_Mod_Songs)?" is a usual issue on many wikis. While both works, there must be an agreement on what should be used over the other, and by then pages can be renamed/created with that.
+
+This is irrespectively to the issue of mod names, which should be capitalized based on the name given by the authors. This task deals with more general names, such as these.
+
+- [List of Friday Night Funkin' mods current held achievements](https://fridaynightfunking.fandom.com/wiki/List_of_Friday_Night_Funkin%27_mods_current_held_achievements)
+- [List of Unique Mod Songs](https://fridaynightfunking.fandom.com/wiki/List_of_Unique_Mod_Songs)
 ## Plan
 
 - [ ] Reach consensus of what case to use

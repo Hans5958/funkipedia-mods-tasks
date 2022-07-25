@@ -2,16 +2,21 @@
 
 Personal list of tasks that I want (or wish) to do on fridaynightfunking.fandom.com.
 
+Read also: [A Study of Funkipedia Mods – What Can Be Improved](https://gist.github.com/Hans5958/9aee0e5ae53128f3ffb47ed03e87e9a8)
+
 ## Table of contents
 
 | ID                                               | Description                                                       | Status                 | Auto               | Manual             |
 | ------------------------------------------------ | ----------------------------------------------------------------- | ---------------------- | ------------------ | ------------------ |
 | [download-links](1-download-links/README.md)     | Use templates for download links instead of wikitext              | ![status-wait] Waiting | :white_check_mark: | :white_check_mark: |
 | [doc-separation](2-doc-separation/README.md)     | Separate template documentation to it's own page on `/doc`        | ![status-wait] Waiting | :white_check_mark: |                    |
-| [tldr-update](3-tldr-update/README.md)           | Update {{TLDR}} values based on existing notices         | ![status-wait] Waiting | :white_check_mark: |                    |
+| [tldr-update](3-tldr-update/README.md)           | Update {{TLDR}} values based on existing notices                  | ![status-wait] Waiting | :white_check_mark: |                    |
 | [songinfo-update](4-songinfo-update/README.md)   | Merge {{SongInfo}} with {{SongInfoGradient}} and {{SongInfoLoud}} | ![status-wait] Waiting | :white_check_mark: | :white_check_mark: |
 | [page-caps](5-page-caps/README.md)               | Use consistent capitalization on pages names                      | ![status-stub] Stub    |                    | :white_check_mark: |
 | [category-cleanup](6-category-cleanup/README.md) | Remove insignificant categories                                   | ![status-stub] Stub    | :white_check_mark: | :white_check_mark: |
+| [mc-ambiguity](7-mc-ambiguity/README.md)         | Resolve the "[mod/character ambiguity](link-mc-ambiguity)"        | ![status-stub] Stub    |                    | :white_check_mark: |
+| [cut-the-grass](8-cut-the-grass/README.md)       | Make long pages shorter with separation to other pages            | ![status-stub] Stub    |                    | :white_check_mark: |
+| [tabber-killer](8-tabber-killer/README.md)       | Decrease use of the tabber feature                                | ![status-stub] Stub    |                    | :white_check_mark: |
 
 ## Status key
 
@@ -26,6 +31,8 @@ All automated tasks will be done on [Bot5958](https://fridaynightfunking.com/wik
 
 AutoWikiBrowser and Pywikibot are tools that are going to be used on these tasks, and the source code are available on https://gitlab.com/Hans5958-MWS/fandom-fridaynightfunking.
 
+
+[link-mc-ambiguity]: https://gist.github.com/Hans5958/9aee0e5ae53128f3ffb47ed03e87e9a8#the-modcharacter-ambiguity
 <!-- status start -->
 [status-done]: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Symbol_confirmed.svg/16px-Symbol_confirmed.svg.png
 [status-wait]: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Symbol_wait.svg/16px-Symbol_wait.svg.png

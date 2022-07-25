@@ -8,6 +8,14 @@
 
 **Auto/manual**: Manual (template making), automated (updating pages)
 
+## Background
+
+The wiki has {{SongInfo}}, the template for songs, but spin-offs/variations exists to support other use cases. {{SongInfoGradient}} is the most used one, with additional support for gradient and multiple colors, and {{SongInfoLoud}} is used to warn readers regarding the song.
+
+This task has two goals:
+- To update the base {{SongInfo}}, merging {{SongInfoGradient}} and {{SongInfoLoud}} in the process, achieving parity and consistency, and other substantial updates.
+- To edit the pages using the templates. This includes parameter name changes for clarity and template name change. This is a must for {{SongInfoLoud}}, and suggested on the others.
+
 ## Links
 
 - [User:Hans5958/SongInfo](https://fridaynightfunking.fandom.com/wiki/User:Hans5958/SongInfo)
