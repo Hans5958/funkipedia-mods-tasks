@@ -29,6 +29,8 @@ Read also: [A Study of Funkipedia Mods – What Can Be Improved](https://gist.gi
 
 All automated tasks will be done on [Bot5958](https://fridaynightfunking.com/wiki/User:Bot5958), preferably with the bot flag upon request to reduce clutter on Special:RecentChanges.
 
+For the bot flag, a bureaucrat or administrator should give approval on a public space, and by then a request can be made to the Fandom staff by the bot owner. (see [1](https://community.fandom.com/wiki/Help:Bots#How_can_I_flag_an_account_as_a_bot?), [2](https://support.fandom.com/hc/en-us/articles/360035984513-I-want-to-flag-an-account-as-a-bot))
+
 AutoWikiBrowser and Pywikibot are tools that are going to be used on these tasks, and the source code are available on https://gitlab.com/Hans5958-MWS/fandom-fridaynightfunking.
 
 
