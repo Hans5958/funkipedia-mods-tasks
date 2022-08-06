@@ -2,7 +2,7 @@
 
 **Description**: Separate template documentation to it's own page on `/doc`
 
-**Status**: ![status-wait] Waiting
+**Status**: ![status-done] Done
 
 **Pages checked**: 194
 
@@ -24,8 +24,8 @@ Luckily, there is a solution for this: putting the documentation in it's own pag
 
 - [x] Get list of pages to check
 - [x] Create script for automated editing
-- [ ] Get approval to run script ![status-wait]
-- [ ] Run script on Bot5958 supervised
+- ~~[ ] Get approval to run script~~ (small scope, executed slowly)
+- [x] Run script on Bot5958 supervised
  
 ## Pages to check
 
