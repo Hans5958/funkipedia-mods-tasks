@@ -1,0 +1,52 @@
+\[\[(.+?)\|.+\]\]
+[[$1|100px]]
+
+<div.+?>\n?
+
+{{User:Hans5958/Unified Notice Style/NoticeBox
+|issue=
+|description=
+|notetype=
+|note={{{1|}}}
+|cborder=
+|cat=
+|rightimage=1
+|image=
+|quote=
+}}
+
+this article
+this {{#if:{{{Yesno|{{{section|}}}}}}|section|article}}
+
+User:Hans5958/Unified Notice Style/CW
+User:Hans5958/Unified Notice Style/TW
+User:Hans5958/Unified Notice Style/Controversial
+User:Hans5958/Unified Notice Style/Spoilers
+User:Hans5958/Unified Notice Style/Copyrighted
+User:Hans5958/Unified Notice Style/Protected
+User:Hans5958/Unified Notice Style/Long
+User:Hans5958/Unified Notice Style/GoldenThrone
+User:Hans5958/Unified Notice Style/Good
+User:Hans5958/Unified Notice Style/Hold
+User:Hans5958/Unified Notice Style/Discontinued
+User:Hans5958/Unified Notice Style/Language
+User:Hans5958/Unified Notice Style/Fan-Favorite
+User:Hans5958/Unified Notice Style/Fan-Made
+User:Hans5958/Unified Notice Style/ResolvedControversy
+User:Hans5958/Unified Notice Style/Unreleased
+User:Hans5958/Unified Notice Style/Lost
+User:Hans5958/Unified Notice Style/Unfinished
+User:Hans5958/Unified Notice Style/UpcomingContent
+User:Hans5958/Unified Notice Style/Place Holder
+User:Hans5958/Unified Notice Style/Partially Lost
+User:Hans5958/Unified Notice Style/Unavailable
+User:Hans5958/Unified Notice Style/Stub
+User:Hans5958/Unified Notice Style/Outdated
+User:Hans5958/Unified Notice Style/File Quality
+User:Hans5958/Unified Notice Style/Image Quality
+User:Hans5958/Unified Notice Style/Proofread
+User:Hans5958/Unified Notice Style/UnfinishedSong
+User:Hans5958/Unified Notice Style/Storage
+User:Hans5958/Unified Notice Style/Disambiguation
+
+
