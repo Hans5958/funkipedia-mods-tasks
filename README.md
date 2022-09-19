@@ -17,7 +17,7 @@ Read also: [A Study of Funkipedia Mods – What Can Be Improved](https://gist.gi
 | [mc-ambiguity](07-mc-ambiguity/README.md)                 | Resolve the "[mod/character ambiguity](link-mc-ambiguity)"        | ![status-stub] Stub    |                    | :white_check_mark: |
 | [cut-the-grass](08-cut-the-grass/README.md)               | Make long pages shorter with separation to other pages            | ![status-stub] Stub    |                    | :white_check_mark: |
 | [tabber-killer](09-tabber-killer/README.md)               | Decrease use of the tabber feature                                | ![status-stub] Stub    |                    | :white_check_mark: |
-| [modern-html](10-modern-html/README.md)                   | Use modern HTML techniques instead of using deprecated tags       | ![status-ongo] Ongoing |                    | :white_check_mark: |
+| [minors](10-minors/README.md)                             | Minor edits such as syntax fixes and cosmetical changes           | ![status-ongo] Ongoing |                    | :white_check_mark: |
 | [unified-notice-style](11-unified-notice-style/README.md) | Create a unified style for all notices                            | ![status-ongo] Ongoing |                    | :white_check_mark: |
 
 ## Status key
