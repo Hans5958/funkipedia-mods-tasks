@@ -1,4 +1,4 @@
-# page-caps
+# Page Caps
 
 **Description**: Use consistent capitalization on pages names
 

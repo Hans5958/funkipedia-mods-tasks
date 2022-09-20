@@ -1,4 +1,4 @@
-# tabber-killer
+# Tabber Killer
 
 **Description**: Decrease use of the tabber feature
 

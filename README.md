@@ -8,17 +8,17 @@ Read also: [A Study of Funkipedia Mods – What Can Be Improved](https://gist.gi
 
 | ID                                                        | Description                                                       | Status                 | Auto               | Manual             |
 | --------------------------------------------------------- | ----------------------------------------------------------------- | ---------------------- | ------------------ | ------------------ |
-| [download-links](01-download-links/README.md)             | Use templates for download links instead of wikitext              | ![status-wait] Waiting | :white_check_mark: | :white_check_mark: |
-| [doc-separation](02-doc-separation/README.md)             | Separate template documentation to it's own page on `/doc`        | ![status-done] Done    | :white_check_mark: |                    |
-| [tldr-update](03-tldr-update/README.md)                   | Update {{TLDR}} values based on existing notices                  | ![status-wait] Waiting | :white_check_mark: |                    |
-| [songinfo-update](04-songinfo-update/README.md)           | Merge {{SongInfo}} with {{SongInfoGradient}} and {{SongInfoLoud}} | ![status-wait] Waiting | :white_check_mark: | :white_check_mark: |
-| [page-caps](05-page-caps/README.md)                       | Use consistent capitalization on pages names                      | ![status-stub] Stub    |                    | :white_check_mark: |
-| [category-cleanup](06-category-cleanup/README.md)         | Remove insignificant categories                                   | ![status-stub] Stub    | :white_check_mark: | :white_check_mark: |
-| [mc-ambiguity](07-mc-ambiguity/README.md)                 | Resolve the "[mod/character ambiguity](link-mc-ambiguity)"        | ![status-stub] Stub    |                    | :white_check_mark: |
-| [cut-the-grass](08-cut-the-grass/README.md)               | Make long pages shorter with separation to other pages            | ![status-stub] Stub    |                    | :white_check_mark: |
-| [tabber-killer](09-tabber-killer/README.md)               | Decrease use of the tabber feature                                | ![status-stub] Stub    |                    | :white_check_mark: |
-| [minors](10-minors/README.md)                             | Minor edits such as syntax fixes and cosmetical changes           | ![status-ongo] Ongoing |                    | :white_check_mark: |
-| [unified-notice-style](11-unified-notice-style/README.md) | Create a unified style for all notices                            | ![status-ongo] Ongoing |                    | :white_check_mark: |
+| [Download Links](01-download-links/README.md)             | Use templates for download links instead of wikitext              | ![status-wait] Waiting | :white_check_mark: | :white_check_mark: |
+| [Doc. Separation](02-doc-separation/README.md)            | Separate template documentation to it's own page on `/doc`        | ![status-done] Done    | :white_check_mark: |                    |
+| [{{TLDR}} Update](03-tldr-update/README.md)               | Update {{TLDR}} values based on existing notices                  | ![status-wait] Waiting | :white_check_mark: |                    |
+| [{{SongInfo}} Update](04-songinfo-update/README.md)       | Merge {{SongInfo}} with {{SongInfoGradient}} and {{SongInfoLoud}} | ![status-wait] Waiting | :white_check_mark: | :white_check_mark: |
+| [Page Caps](05-page-caps/README.md)                       | Use consistent capitalization on pages names                      | ![status-stub] Stub    |                    | :white_check_mark: |
+| [Category Cleanup](06-category-cleanup/README.md)         | Rename categories and remove insignificat categories              | ![status-stub] Stub    | :white_check_mark: | :white_check_mark: |
+| [Mod/Character Ambiguity](07-mc-ambiguity/README.md)      | Resolve the "[mod/character ambiguity](link-mc-ambiguity)"        | ![status-stub] Stub    |                    | :white_check_mark: |
+| [Cut the Grass](08-cut-the-grass/README.md)               | Make long pages shorter with separation to other pages            | ![status-stub] Stub    |                    | :white_check_mark: |
+| [Tabber Killer](09-tabber-killer/README.md)               | Decrease use of the tabber feature                                | ![status-stub] Stub    |                    | :white_check_mark: |
+| [Minors](10-minors/README.md)                             | Minor edits such as syntax fixes and cosmetical changes           | ![status-ongo] Ongoing |                    | :white_check_mark: |
+| [Unified Notice Style](11-unified-notice-style/README.md) | Create a unified style for all notices                            | ![status-wait] Waiting |                    | :white_check_mark: |
 
 ## Status key
 

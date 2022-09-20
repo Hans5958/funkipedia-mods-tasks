@@ -1,4 +1,4 @@
-# songinfo-update
+# {{SongInfo}} Update
 
 **Description**: Merge {{SongInfo}} with {{SongInfoGradient}} and {{SongInfoLoud}}
 

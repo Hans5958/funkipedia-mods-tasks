@@ -1,20 +1,26 @@
-# category-cleanup
+# Category Cleanup
 
-**Description**: Remove insignificant categories
+**Description**: Rename categories and remove insignificant categories
 
 **Status**: ![status-stub] Stub
 
 **Pages checked**: >500 (578 is the amount of categories from Special:AllPages as of 22 July 2022)
 
-**Auto/manual**: Manual (checking categories), automated (removing categories from pages)
+**Auto/manual**: Manual (checking categories), automated (removing/renaming categories from pages)
 
 ## Background
 
-Day-to-day we see categories that are not insignificant, so this task has a job to remove these categories.
+Day-to-day we see categories that are not significant, so this task has a job to remove these categories.
+
+This task also has a job to rename some categories. The names should be descriptive enough.
 
 ## Plan
 
 - [ ] Start cleaning categories
+
+## Links
+
+- [unified-notice-style](../11-unified-notice-style/README.md) (shared task)
 
 <!-- status start -->
 [status-done]: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Symbol_confirmed.svg/16px-Symbol_confirmed.svg.png

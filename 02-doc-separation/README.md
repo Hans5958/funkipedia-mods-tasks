@@ -1,4 +1,4 @@
-# doc-separation
+# Doc Separation
 
 **Description**: Separate template documentation to it's own page on `/doc`
 

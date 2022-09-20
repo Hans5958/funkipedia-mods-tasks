@@ -1,8 +1,8 @@
-# unified-notice-style
+# Unified Notice Style
 
 **Description**: Create a unified style for all notices
 
-**Status**: ![status-ongo] Ongoing
+**Status**: ![status-wait] Waiting
 
 **Pages checked**: 30 (amount of notices)
 
@@ -12,16 +12,20 @@
 
 This task has a job to equalize all the notice style using one shared based template, creating a unified notice style.
 
+This also includes changes on the category names, so the scope is shared with [category-cleanup](../06-category-cleanup/README.md).
+
 ## Link
 
-- [Main page, with demo of all notices](https://fridaynightfunking.fandom.com/wiki/User:Hans5958/Unified_Notice_Style)
+- [Main page](https://fridaynightfunking.fandom.com/wiki/User:Hans5958/Unified_Notice_Style)
 - [Base template](https://fridaynightfunking.fandom.com/wiki/User:Hans5958/Unified_Notice_Style)
+- Previews/demos (seperated due to complain)
+  - [10 September 2022](https://hans5958.github.io/funkipedia-mods-tasks/11-unified-notice-style/preview/2022-09-10.html)
 
 ## Plan
 
 - [x] Create base template
-- [ ] Create all notices using the template ![status-ongo]
-- [ ] Move all notices to mainspace
+- [x] Create all notices using the template
+- [ ] Move all notices to mainspace ![status-wait]
 
 <!-- status start -->
 [status-done]: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Symbol_confirmed.svg/16px-Symbol_confirmed.svg.png

@@ -1,4 +1,4 @@
-# download-links
+# Download Links
 
 **Description**: Use templates for download links instead of wikitext
 

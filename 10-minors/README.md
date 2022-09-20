@@ -1,4 +1,4 @@
-# minors
+# Minors
 
 **Description**: Minor edits such as syntax fixes and cosmetical changes
 

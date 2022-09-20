@@ -1,4 +1,4 @@
-# mc-ambiguity
+# Mod/Character Ambiguity
 
 **Description**: Resolve the "[mod/character ambiguity]([link-mc-ambiguity](https://gist.github.com/Hans5958/9aee0e5ae53128f3ffb47ed03e87e9a8#the-modcharacter-ambiguity))"
 
