@@ -35,6 +35,9 @@ For getting the bot flag, a bureaucrat or an administrator should give approval 
 
 AutoWikiBrowser and Pywikibot are tools that are going to be used on these tasks, and the source code are available on https://gitlab.com/Hans5958-MWS/fandom-fridaynightfunking.
 
+## License
+
+The contents on the repository are licensed under the terms of [Creative Commons Attribution 4.0 International License].
 
 [link-mc-ambiguity]: https://gist.github.com/Hans5958/9aee0e5ae53128f3ffb47ed03e87e9a8#the-modcharacter-ambiguity
 <!-- status start -->
