@@ -15,6 +15,7 @@ The wiki has {{TLDR}} that when used in companion with {{NoticeScrollboard}}, gi
 ## Links
 
 - [Pywikibot script](https://gitlab.com/Hans5958-MWS/fandom-fridaynightfunking/-/blob/master/pwb/scripts/userscripts/tldr_updater.py)
+- [Template:Notices](https://fridaynightfunking.fandom.com/wiki/Template:Notices) (to be checked when a new notice is added)
 
 ## Plan
 
