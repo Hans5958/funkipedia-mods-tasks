@@ -2,7 +2,7 @@
 
 **Description**: Minor edits such as syntax fixes and cosmetical changes
 
-**Status**: ![status-ongo] Ongoing
+**Status**: ![status-done] Done (tentative)
 
 **Pages checked**: *unknown, on-the-spot checks, depends with the subtask*
 
@@ -35,8 +35,8 @@ There has an issue with the Icon template that is being problematic when a space
 
 - [x] Get list of pages to check
 - [x] Create script for automated editing
-- [ ] Get approval to run script ![status-wait]
-- [ ] Run script on Bot5958 supervised
+- [ ] ~~Get approval to run script~~ (executed slowly)
+- [x] Run script on Bot5958 supervised
 
 #### Pages to check
 
