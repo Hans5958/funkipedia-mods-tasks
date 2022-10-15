@@ -24,7 +24,7 @@ Luckily, there is a solution for this: putting the documentation in it's own pag
 
 - [x] Get list of pages to check
 - [x] Create script for automated editing
-- ~~[ ] Get approval to run script~~ (small scope, executed slowly)
+- [ ] ~~Get approval to run script~~ (limited scope, executed slowly)
 - [x] Run script on Bot5958 supervised
  
 ## Pages to check
