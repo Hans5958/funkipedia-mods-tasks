@@ -17,9 +17,10 @@ This also includes changes on the category names, so the scope is shared with [c
 ## Link
 
 - [Main page](https://fridaynightfunking.fandom.com/wiki/User:Hans5958/Unified_Notice_Style)
-- [Base template](https://fridaynightfunking.fandom.com/wiki/User:Hans5958/Unified_Notice_Style)
+- [Base template](https://fridaynightfunking.fandom.com/wiki/User:Hans5958/Unified_Notice_Style/NoticeBox)
 - Previews/demos (seperated due to complain)
   - [10 September 2022](https://hans5958.github.io/funkipedia-mods-tasks/11-unified-notice-style/preview/2022-09-10.html)
+  - [15 October 2022](https://hans5958.github.io/funkipedia-mods-tasks/11-unified-notice-style/preview/2022-10-15.html)
 - [Template:Notices](https://fridaynightfunking.fandom.com/wiki/Template:Notices) (to be checked when a new notice is added)
 
 ## Plan
