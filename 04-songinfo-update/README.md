@@ -22,6 +22,8 @@ This task has two goals:
 - [User:Hans5958/SongInfo/testcases](https://fridaynightfunking.fandom.com/wiki/User:Hans5958/SongInfo/testcases)
 - [User:Hans5958/SongInfo/doc](https://fridaynightfunking.fandom.com/wiki/User:Hans5958/SongInfo/doc)
 - [Pywikibot script](https://gitlab.com/Hans5958-MWS/fandom-fridaynightfunking/-/blob/master/pwb/scripts/userscripts/songinfo_updater.py)
+- [Initial Discord message](https://discord.com/channels/954532398400417832/969714711052554311/998634681668997330)
+- [Post on #wiki-feedback forum](https://discord.com/channels/954532398400417832/1039194154850336778)
 
 ## Plan
 
