@@ -14,7 +14,7 @@ This task has a job to equalize all the notice style using one shared based temp
 
 This also includes changes on the category names, so the scope is shared with [category-cleanup](../06-category-cleanup/README.md).
 
-## Link
+## Links
 
 - [Main page](https://fridaynightfunking.fandom.com/wiki/User:Hans5958/Unified_Notice_Style)
 - [Base template](https://fridaynightfunking.fandom.com/wiki/User:Hans5958/Unified_Notice_Style/NoticeBox)
