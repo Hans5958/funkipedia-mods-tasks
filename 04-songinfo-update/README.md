@@ -18,18 +18,24 @@ This task has two goals:
 
 ## Links
 
+- [Test wiki: Template:Song info](https://hans5958-test.fandom.com/wiki/Template:Song_info)
+    - [Test wiki: Template:Song info/doc](https://hans5958-test.fandom.com/wiki/Template:Song_info/doc)
+    - [Test wiki: Template:Song info/testcases](https://hans5958-test.fandom.com/wiki/Template:Song_info/testcases)
 - [User:Hans5958/SongInfo](https://fridaynightfunking.fandom.com/wiki/User:Hans5958/SongInfo)
-- [User:Hans5958/SongInfo/testcases](https://fridaynightfunking.fandom.com/wiki/User:Hans5958/SongInfo/testcases)
-- [User:Hans5958/SongInfo/doc](https://fridaynightfunking.fandom.com/wiki/User:Hans5958/SongInfo/doc)
+    - [User:Hans5958/SongInfo/testcases](https://fridaynightfunking.fandom.com/wiki/User:Hans5958/SongInfo/testcases)
+    - [User:Hans5958/SongInfo/doc](https://fridaynightfunking.fandom.com/wiki/User:Hans5958/SongInfo/doc)
 - [Pywikibot script](https://gitlab.com/Hans5958-MWS/fandom-fridaynightfunking/-/blob/master/pwb/scripts/userscripts/songinfo_updater.py)
 - [Initial Discord message](https://discord.com/channels/954532398400417832/969714711052554311/998634681668997330)
-- [Post on #wiki-feedback forum](https://discord.com/channels/954532398400417832/1039194154850336778)
+- ~~[Post on #wiki-feedback forum](https://discord.com/channels/954532398400417832/1039194154850336778)~~
+- [Post on #wiki-feedback forum (new)](https://discord.com/channels/1049687644923248680/1052225319127502999)
+
 
 ## Plan
 
 - [x] Merge {{SongInfoGradient}} to {{SongInfo}}
 - [x] Merge {{SongInfoLoud}} to {{SongInfo}}
 - [x] Create TemplateData and other documentation
+- [ ] Convert to a `.lua` module template (Laclace's as basis)
 - [ ] Move template to the mainspace templates. ![status-wait]
 - [x] Get list of pages to check
 - [x] Create script for automated editing

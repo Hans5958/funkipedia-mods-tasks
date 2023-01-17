@@ -16,14 +16,16 @@ This also includes changes on the category names, so the scope is shared with [c
 
 ## Links
 
+- [Test wiki: Main page (incl. base template)](https://hans5958-test.fandom.com/wiki/Template:Unified_Notice_Style)
 - [Main page](https://fridaynightfunking.fandom.com/wiki/User:Hans5958/Unified_Notice_Style)
-- [Base template](https://fridaynightfunking.fandom.com/wiki/User:Hans5958/Unified_Notice_Style/NoticeBox)
+  - [Base template](https://fridaynightfunking.fandom.com/wiki/User:Hans5958/Unified_Notice_Style/NoticeBox)
 - Previews/demos (seperated due to complain)
   - [10 September 2022](https://hans5958.github.io/funkipedia-mods-tasks/11-unified-notice-style/preview/2022-09-10.html)
   - [15 October 2022](https://hans5958.github.io/funkipedia-mods-tasks/11-unified-notice-style/preview/2022-10-15.html)
 - [Template:Notices](https://fridaynightfunking.fandom.com/wiki/Template:Notices) (to be checked when a new notice is added)
 - [Initial Discord message](https://discord.com/channels/954532398400417832/969774355842224168/1005435185141129307)
-- [Post on #wiki-feedback forum](https://discord.com/channels/954532398400417832/1039372210541969430)
+- ~~[Post on #wiki-feedback forum](https://discord.com/channels/954532398400417832/1039372210541969430)~~
+- [Post on #wiki-feedback forum (new)](https://discord.com/channels/1049687644923248680/1052224912443584572)
 
 ## Plan
 
