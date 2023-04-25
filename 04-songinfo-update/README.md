@@ -18,9 +18,14 @@ This task has two goals:
 
 ## Links
 
-- [Test wiki: Template:Song info](https://hans5958-test.fandom.com/wiki/Template:Song_info)
-    - [Test wiki: Template:Song info/doc](https://hans5958-test.fandom.com/wiki/Template:Song_info/doc)
+- [Test wiki: Template:Song info](https://hans5958-test.fandom.com/wiki/Template:Song_info) (currently `module 2`)
     - [Test wiki: Template:Song info/testcases](https://hans5958-test.fandom.com/wiki/Template:Song_info/testcases)
+- Variants:
+    - [Test wiki: Template:Song info/manual 1](https://hans5958-test.fandom.com/wiki/Template:Song_info/manual_1) (done manually, first attempt)
+    - [Test wiki: Template:Song info/module 1](https://hans5958-test.fandom.com/wiki/Template:Song_info/module_1) (as a `.lua` module)
+        - [Test wiki: Module:Song info](https://hans5958-test.fandom.com/wiki/Module:Song_info)
+    - [Test wiki: Template:Song info/module 2](https://hans5958-test.fandom.com/wiki/Template:Song_info/module_2) (redesign)
+        - [Test wiki: Module:Song info 2](https://hans5958-test.fandom.com/wiki/Module:Song_info_2)
 - [User:Hans5958/SongInfo](https://fridaynightfunking.fandom.com/wiki/User:Hans5958/SongInfo)
     - [User:Hans5958/SongInfo/testcases](https://fridaynightfunking.fandom.com/wiki/User:Hans5958/SongInfo/testcases)
     - [User:Hans5958/SongInfo/doc](https://fridaynightfunking.fandom.com/wiki/User:Hans5958/SongInfo/doc)
@@ -35,7 +40,7 @@ This task has two goals:
 - [x] Merge {{SongInfoGradient}} to {{SongInfo}}
 - [x] Merge {{SongInfoLoud}} to {{SongInfo}}
 - [x] Create TemplateData and other documentation
-- [ ] Convert to a `.lua` module template (Laclace's as basis)
+- [x] Convert to a `.lua` module template (Laclace's as basis)
 - [ ] Move template to the mainspace templates. ![status-wait]
 - [x] Get list of pages to check
 - [x] Create script for automated editing
