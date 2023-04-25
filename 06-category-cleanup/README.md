@@ -4,7 +4,7 @@
 
 **Status**: ![status-stub] Stub
 
-**Pages checked**: >500 (578 is the amount of categories from Special:AllPages as of 22 July 2022)
+**Pages checked**: >500 (578 in July 2022)
 
 **Auto/manual**: Manual (checking categories), automated (removing/renaming categories from pages)
 

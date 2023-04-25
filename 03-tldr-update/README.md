@@ -4,7 +4,7 @@
 
 **Status**: ![status-wait] Waiting
 
-**Pages checked**: 711
+**Pages checked**: >1000 (711 in July 2022)
 
 **Auto/manual**: Automated
 

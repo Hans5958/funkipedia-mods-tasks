@@ -4,7 +4,7 @@
 
 **Status**: ![status-wait] Waiting
 
-**Pages checked**: 1981
+**Pages checked**: >2500 (1981 in July 2022)
 
 **Auto/manual**: Manual (template making), automated (updating pages)
 

@@ -4,7 +4,7 @@
 
 **Status**: ![status-done] Done
 
-**Pages checked**: 194
+**Pages checked**: 194 in July 2022
 
 **Auto/manual**: Automated
 
