@@ -1,3 +1,15 @@
+> [!CAUTION]
+>
+> ## Discontinued
+>
+> Due to the unstable vision of the wiki and/or the community, in my opinion, and a loss of interest, I decided to significantly drop plans of contributions on Funkipedia Mods Wiki.
+>
+> Any assets will be archived and none will be removed. Any other assets may be published in due time. May this be a useful reference for the future readers and editors/contributors. I also wish that Funkipedia Mods Wiki is a stepping stone of a journey of invaluable volunteer work. 
+>
+> I'm still active on other wikis, such as [Wikipedia](https://en.wikipedia.org/wiki/User:Hans5958) and [Wikidata](https://en.wikipedia.org/wiki/User:Hans5958). For more information, check out what I'm doing on [my website](https://hans5958.github.io/).
+> 
+> I apologize for the inconvenience. It's still fun, though. Thank you for the good times!
+
 # Tasks on Funkipedia Mods
 
 Personal list of tasks that I want (or wish) to do on fridaynightfunking.fandom.com.
